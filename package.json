@@ -1,0 +1,31 @@
+{
+  "name": "graphql-getting-started",
+  "version": "1.0.0",
+  "description": "Repository to support my Medium Stories about GraphQL first steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turbiani/graphql-getting-started.git"
+  },
+  "keywords": [
+    "graphql",
+    "javascript",
+    "development",
+    "API",
+    "nodejs"
+  ],
+  "author": "Leonardo Turbiani <leo.turbiani@gmail.com> (http://who.leozera.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Turbiani/graphql-getting-started/issues"
+  },
+  "homepage": "https://github.com/Turbiani/graphql-getting-started#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+  }
+}
