@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "GraphQL Getting Started": {
+      "schemaPath": "schema.json",
+      "extensions": {
+        "endpoints": {
+          "dev": "http://localhost:3000/graphql"
+        }
+      }
+    }
+  }
+}
